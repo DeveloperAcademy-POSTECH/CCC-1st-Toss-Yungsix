@@ -11,6 +11,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var tossLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        tossLabel.font = .boldSystemFont(ofSize: 20)
+//        tossLabel.font = .boldSystemFont(ofSize: 20)
     }
 }
