@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		794FC2F92873032E002CD910 /* Bank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 794FC2F82873032E002CD910 /* Bank.swift */; };
+		794FC2FB2873043B002CD910 /* BankTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 794FC2FA2873043B002CD910 /* BankTableViewCell.swift */; };
 		7969EF1F287023AF00CC3C43 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969EF1E287023AF00CC3C43 /* AppDelegate.swift */; };
 		7969EF21287023AF00CC3C43 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969EF20287023AF00CC3C43 /* SceneDelegate.swift */; };
 		7969EF23287023AF00CC3C43 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969EF22287023AF00CC3C43 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		794FC2F82873032E002CD910 /* Bank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bank.swift; sourceTree = "<group>"; };
+		794FC2FA2873043B002CD910 /* BankTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankTableViewCell.swift; sourceTree = "<group>"; };
 		7969EF1B287023AF00CC3C43 /* YungsixToss.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YungsixToss.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7969EF1E287023AF00CC3C43 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7969EF20287023AF00CC3C43 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				7969EF1E287023AF00CC3C43 /* AppDelegate.swift */,
 				7969EF20287023AF00CC3C43 /* SceneDelegate.swift */,
 				7969EF22287023AF00CC3C43 /* ViewController.swift */,
+				794FC2F82873032E002CD910 /* Bank.swift */,
+				794FC2FA2873043B002CD910 /* BankTableViewCell.swift */,
 				7969EF24287023AF00CC3C43 /* Main.storyboard */,
 				7969EF27287023B000CC3C43 /* Assets.xcassets */,
 				7969EF29287023B000CC3C43 /* LaunchScreen.storyboard */,
@@ -161,7 +167,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7969EF23287023AF00CC3C43 /* ViewController.swift in Sources */,
+				794FC2F92873032E002CD910 /* Bank.swift in Sources */,
 				7969EF1F287023AF00CC3C43 /* AppDelegate.swift in Sources */,
+				794FC2FB2873043B002CD910 /* BankTableViewCell.swift in Sources */,
 				7969EF21287023AF00CC3C43 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
